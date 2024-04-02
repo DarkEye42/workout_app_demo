@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Demo',
+      title: 'Workout App',
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.green,
